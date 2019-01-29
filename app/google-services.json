@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "143754785936",
+    "firebase_url": "https://socialex-7224b.firebaseio.com",
+    "project_id": "socialex-7224b",
+    "storage_bucket": "socialex-7224b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143754785936:android:b070f7081a63b31a",
+        "android_client_info": {
+          "package_name": "by.kuchinsky.socialex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143754785936-j1f1c7ij9ujdvde97ierap4svdh70e4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "by.kuchinsky.socialex",
+            "certificate_hash": "0cf78a0f009367882e902b5d639474eb0d26ff06"
+          }
+        },
+        {
+          "client_id": "143754785936-i4terkk9r9ethbrd5fopvqv0pi83jsaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZQV3Zv6vAjo7AYjiOT7P7L1-rCF95rBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143754785936-i4terkk9r9ethbrd5fopvqv0pi83jsaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
